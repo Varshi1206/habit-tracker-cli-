@@ -71,7 +71,7 @@ Keep showing up — you’re doing great! 💪
 
 ## ✨ Author
 
-Made with ❤️ by **Jayavarshini**  
+Made with ❤️ by Jayavarshini 
 2nd Year CSE Student at SRM Kattankulathur  
 🎯 Also preparing for IIT Madras BS in Data Science  
 📌 GitHub Profile:https://github.com/Varshi1206
